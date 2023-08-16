@@ -1,3 +1,4 @@
+
 # File-Permission-tool
 
 
@@ -131,8 +132,11 @@ chmod number filename
                         = 4 + 0 + 1 = 5 is a number 
 
 
+
 امثله للامر 
+
 chmod 777 filename 
+
 
 
 output = rwxrwxrwx 
