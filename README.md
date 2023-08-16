@@ -1,4 +1,6 @@
 # File-Permission-tool
+![Screenshot 2023-08-17 013746](https://github.com/0xtdrh/File-Permission-tool-/assets/142453072/44765e19-da4a-4b68-a11c-131c26ed5a5d)
+
 
 اهلا عزيزى الهكر  
 جاى اكلمك عن linux file permission 
