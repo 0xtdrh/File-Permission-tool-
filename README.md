@@ -133,13 +133,22 @@ chmod number filename
 
 امثله للامر 
 chmod 777 filename 
+
+
 output = rwxrwxrwx 
 
-chmod 55 filename 
-output = --------r-xr-x
 
+chmod 55 filename 
+
+output = --------r-xr-x
+                                              
 كده خلصنا هل فى طريقه تانيه لل chmod 
+
 ايوه فى بس مش هدوشك بيها و اخيرا و ليس اخرا الاداه اللى موجوده و ده اللينك 
+
 https://github.com/0xtdrh/File-Permission-tool-
+
 بتعمل التحويل اوتوماتيك ياريت تبص على source code علشان تفهم اكتر
-طبعا الاداه دى انا عملتها علشان حضرتك تفهم اكتر عن التحويل 
+
+طبعا الاداه دى انا عملتها علشان حضرتك تفهم اكتر عن التحويل
+
